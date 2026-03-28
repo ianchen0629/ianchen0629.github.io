@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://iannotes.org/about/index.html</loc>
+    
+    <lastmod>2026-03-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://iannotes.org/20260328/260328-embodied-ai-proj-update/</loc>
     
     <lastmod>2026-03-28</lastmod>
@@ -19,15 +28,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://iannotes.org/about/index.html</loc>
-    
-    <lastmod>2026-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://iannotes.org/</loc>
@@ -38,14 +38,14 @@
 
   
   <url>
-    <loc>https://iannotes.org/tags/%E6%88%90%E9%95%B7%E9%A7%AD%E5%AE%A2/</loc>
+    <loc>https://iannotes.org/tags/ML/</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://iannotes.org/tags/ML/</loc>
+    <loc>https://iannotes.org/tags/%E6%88%90%E9%95%B7%E9%A7%AD%E5%AE%A2/</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
