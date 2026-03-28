@@ -38,14 +38,14 @@
 
   
   <url>
-    <loc>http://iannotes.org/tags/%E6%88%90%E9%95%B7%E9%A7%AD%E5%AE%A2/</loc>
+    <loc>http://iannotes.org/tags/ML/</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://iannotes.org/tags/ML/</loc>
+    <loc>http://iannotes.org/tags/%E6%88%90%E9%95%B7%E9%A7%AD%E5%AE%A2/</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
